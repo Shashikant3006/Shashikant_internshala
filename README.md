@@ -127,7 +127,4 @@ Once logged in, you can view and update profile information on the profile page.
 Contributing
 Feel free to submit a pull request for improvements or bug fixes. Any contribution is welcome!
 
-License
-This project is licensed under the MIT License.
 
-Additional Notes
